@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "RGA Framework",
+  "description": null,
+  "icons": {
+    "60": "assets/images/favicon/firefox_app_60x60.png",
+    "128": "assets/images/favicon/firefox_app_128x128.png",
+    "512": "assets/images/favicon/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Rami Ashqar",
+    "url": "ramiashqar.tk"
+  }
+}
