@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "name": "RGA Framework",
-  "description": null,
+  "name": "ULT",
+  "description": "Unique Lands Tourism",
   "icons": {
     "60": "assets/images/favicon/firefox_app_60x60.png",
     "128": "assets/images/favicon/firefox_app_128x128.png",
@@ -9,6 +9,6 @@
   },
   "developer": {
     "name": "Rami Ashqar",
-    "url": "ramiashqar.tk"
+    "url": "ramiashqar2020.tk"
   }
 }
